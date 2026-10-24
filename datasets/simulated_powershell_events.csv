@@ -1,0 +1,3 @@
+timestamp,hostname,username,event_id,provider,parent_process,command_line_indicator,network_activity_verified,data_classification
+2026-10-24T09:15:32,WORKSTATION-07,employee01,4104,Microsoft-Windows-PowerShell,WINWORD.EXE,-EncodedCommand,unknown,simulated
+2026-10-24T09:15:33,WORKSTATION-07,employee01,4688,Microsoft-Windows-Security-Auditing,WINWORD.EXE,powershell.exe,unknown,simulated
