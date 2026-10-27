@@ -1,0 +1,6 @@
+timestamp,host,event_id,username,source_ip,result,notes
+2026-10-24T10:21:01,WORKSTATION-12,4625,user02,198.51.100.24,failed,Simulated training record
+2026-10-24T10:21:04,WORKSTATION-12,4625,user02,198.51.100.24,failed,Simulated training record
+2026-10-24T10:21:07,WORKSTATION-12,4625,user02,198.51.100.24,failed,Simulated training record
+2026-10-24T10:21:10,WORKSTATION-12,4625,user02,198.51.100.24,failed,Simulated training record
+2026-10-24T10:21:15,WORKSTATION-12,4624,user02,198.51.100.24,success,Simulated training record
